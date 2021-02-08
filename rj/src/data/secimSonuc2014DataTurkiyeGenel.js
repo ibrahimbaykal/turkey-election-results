@@ -1,2 +1,0 @@
-const secimSonuc2014DataTurkiyeGenel = [{name:"Recep Tayyip Erdoğan",y:21000143},{name:"Ekmeleddin İhsanoğlu",y:15587720},{name:"Selahattin Demirtaş",y:3958048}]
-export default secimSonuc2014DataTurkiyeGenel
